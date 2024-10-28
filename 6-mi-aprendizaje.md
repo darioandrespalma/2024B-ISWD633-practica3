@@ -25,6 +25,6 @@ Durante la práctica, me encontré con algunos problemas de permisos al acceder 
 
 ### Conclusión
 
-Esta práctica consolidó mi comprensión sobre la persistencia de datos en Docker y cómo aplicarla en aplicaciones multi-servicio, un aprendizaje clave para mi desarrollo profesional en la gestión de contenedores y despliegue de aplicaciones.
+Esta práctica consolidó mi comprensión sobre la persistencia de datos en Docker y cómo aplicarla en aplicaciones multi-servicio, un aprendizaje clave para mi para pasar la materia de Construccion y evolucion de software, tambien para el desarrollo profesional en la gestión de contenedores y despliegue de aplicaciones.
 
 
